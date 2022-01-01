@@ -8,8 +8,8 @@
  
 <div align="center">
   <a href="https://github.com/Rencas1207">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=rencas1207&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rencas1207&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rencas1207&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rencas1207&layout=compact&langs_count=7&theme=radical" />
 </div>
  
 ## About 👨
