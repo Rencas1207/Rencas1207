@@ -14,7 +14,9 @@
  
 ## About 👨
 <div align="center">
-  <p align="center">Frontend Developer - Freelance with experience using my preferred stack with technologies such as HTML, styled-components (CSS), Javascript (React), Git for versioning in personal and small business projects. I characterize myself for being a self-taught person, attentive and with the ability to adapt to new technologies.</p>
+  <p align="center">Frontend Software Engineer with 4+ years of experience developing scalable web applications and modern interfaces using React, Next.js, Angular, Vue, and TypeScript.
+Specialized in rapid delivery, high autonomy, and high-quality software, with solid experience in REST API and GraphQL integration, unit testing (TDD, Jest), and quality assurance with SonarQube. Experienced in CI/CD, deployments across multiple environments with Jenkins and GitHub Actions, and integration of cloud services with AWS (S3, Cognito, Amplify, CloudWatch, EC2, among others).
+Focused on stability, scalability, and delivering business value, working in agile teams using Scrum and Kanban.</p>
     </p>
 </div>
 
